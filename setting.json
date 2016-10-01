@@ -1,5 +1,5 @@
 [{
-    "id":"Q123702109",
+    "id":"身份證",
     "tickets" :"1",
     "date":"2016/10/01-06",
     "num":"374",
@@ -21,7 +21,7 @@
     "Upgrade-Insecure-Requests" :"1"
 },{
     "randInput":"",
-    "person_id":"Q123702109",
+    "person_id":"身份證",
     "from_station":"219",
     "to_station":"163",
     "getin_date":"2016/10/01-06",
