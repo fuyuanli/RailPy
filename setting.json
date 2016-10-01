@@ -1,0 +1,38 @@
+[{
+    "id":"Q123702109",
+    "tickets" :"1",
+    "date":"2016/10/01-06",
+    "num":"374",
+    "from":"219",
+    "to":"163",
+
+    
+    "referer":"http://railway.hinet.net/ctno1.htm",
+    "order":"http://railway.hinet.net/check_ctno1.jsp",
+    "img":"http://railway.hinet.net/ImageOut.jsp"
+},{
+    "referer" : "http://railway.hinet.net/ctno1.htm",
+    "User-Agent" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36",
+    "Accept" : "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Encoding" : "gzip, deflate, sdch",
+    "Accept-Language" : "zh-TW,zh;q=0.8",
+    "Connection" : "keep-alive",
+    "Host" : "railway.hinet.net",
+    "Upgrade-Insecure-Requests" :"1"
+},{
+    "randInput":"",
+    "person_id":"Q123702109",
+    "from_station":"219",
+    "to_station":"163",
+    "getin_date":"2016/10/01-06",
+    "train_no":"374",
+    "order_qty_str":"1",
+    "t_order_qty_str":"0",
+    "n_order_qty_str":"0",
+    "d_order_qty_str":"0",
+    "b_order_qty_str":"0",
+    "z_order_qty_str":"0",
+    "returnTicket":"0"
+
+}
+]
